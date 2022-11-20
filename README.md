@@ -1,7 +1,7 @@
 <h1 align='center'> Hello World! 👋</h1>
 <p align='center'>
 </p>
-<div align = 'center' size='20px'> My name is Gio Kim. Welcom to my GitHub Profile :smile:
+<div align = 'center' size='20px'> My name is Gio Kim. Welcome to my GitHub Profile :smile:
 </br>
 </br>
 <h2 align='center'> Connect With Me</h2>
