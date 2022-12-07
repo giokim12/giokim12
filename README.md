@@ -55,9 +55,9 @@
   <img align="center" height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=giokim12&theme=chartreuse-dark&layout=compact" alt="Max Mohammadi" />  
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=giokim12&column=2&row=2&layout=compact&theme=darkhub&no-frame=true&no-bg=false"/>
 </a> -->
-<a href="https://github.com/giokim12/">
+<!-- <a href="https://github.com/giokim12/">
   <img align="center" height="280px" src="https://activity-graph.herokuapp.com/graph?username=giokim12&bg_color=111111&color=7ffe00&line=00adfe&point=7ffe00&area=true&custom_title=My%20Last%20Month%27s%20Statistics" alt="Gio Kim" />  
-  
+   -->
 </a>
 </br>
 </br>
