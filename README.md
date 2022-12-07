@@ -4,6 +4,14 @@
 </p>
 <div align = 'center' size='20px'> Welcome to my GitHub Profile :smile:
 
+<div>
+  <h2 align='center'> Connect With Me</h2>
+  <p align = 'center'>
+  <a href = 'https://www.github.com/giokim12'> <img width = '44px' align= 'center'      src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+  </p>
+</div>
+ 
 </div>
 </br>
 
@@ -53,11 +61,7 @@
 </a>
 </br>
 </br>
-<h2 align='center'> Connect With Me</h2>
-<p align = 'center'>
-<a href = 'https://www.github.com/giokim12'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-</p>
 
 <!--
 **giokim12/giokim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
