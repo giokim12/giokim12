@@ -1,9 +1,10 @@
 <h1 align="center">Hello World! 👋 I'm Gio Kim</h1>
-<h3 align="center">A bilingual frontend developer based in Seoul, Korea</h3>
+<h3 align="center">A bilingual developer based in Seoul, Korea</h3>
 <p align='center'>
 </p>
 <div align = 'center' size='20px'> Welcome to my GitHub Profile :smile:
-
+<br>
+  I am currently interested in data preprocessing, data visualization and frontend development.
 <div>
   <h2 align='center'> Connect With Me</h2>
   <p align = 'center'>
